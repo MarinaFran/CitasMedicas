@@ -1,18 +1,28 @@
 # SyncCare
-El proyecto CitasMedicas parece estar relacionado con la gestión de citas médicas
 
-Administrar citas médicas, incluyendo la programación, edición y cancelación de citas.
-Manejar datos de pacientes, médicos y horarios.
-Proveer una interfaz backend desarrollada principalmente con JavaScript y posiblemente frameworks o bibliotecas como Node.js para la lógica del servidor.
-Usar CSS y HTML para complementar el diseño y estructura de la aplicación.
+SyncCare es una aplicación diseñada para gestionar citas médicas de forma eficiente. Permite a los usuarios (pacientes, doctores y administradores) programar, editar y cancelar citas, así como manejar datos relacionados con pacientes, médicos y horarios.
 
-Para instalar y ejecutar el proyecto CitasMedicas, sigue estos pasos:
+## Características Principales
+- Gestión de citas médicas.
+- Control de datos de pacientes, doctores y especialidades.
+- Sistema de autenticación con tokens JWT.
+- Backend desarrollado con Node.js y MongoDB.
 
-Instalación
-Clona el repositorio:
+## Tecnologías Utilizadas
+- **Lenguajes:** JavaScript, CSS, HTML.
+- **Backend:** Node.js.
+- **Base de Datos:** MongoDB.
+- **Frontend:** (Si aplica, puedes incluir detalles).
 
-bash
-git clone https://github.com/MarinaFran/CitasMedicas.git
+## Instalación
+
+Sigue estos pasos para clonar e instalar el proyecto localmente:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/MarinaFran/CitasMedicas.git
+
+
 Navega al directorio Backend:
 
 bash
