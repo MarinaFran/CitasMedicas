@@ -25,11 +25,11 @@ Sigue estos pasos para clonar e instalar el proyecto localmente:
 
 Navega al directorio Backend:
 
-bash
+ ```bash
 cd CitasMedicas/Backend
 Instala las dependencias:
 
-bash
+ ```bash
 npm install
 Configura las variables de entorno:
 
@@ -48,7 +48,7 @@ MAIL_MAIL=<correo_remitente>
 Reemplaza <username>, <password> y otras claves con tus valores específicos.
 Inicia el servidor:
 
-bash
+ ```bash
 npm start
 Accede a la aplicación:
 
